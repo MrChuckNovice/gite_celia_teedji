@@ -5,7 +5,7 @@
 - FRONT END :  Célia Rameau 🙋
 - BACK END : Teedji Ligourel🙋‍♂️
 
-Temps : 15 jours
+# Temps : 15 jours
 
 ## Technologies 👨‍💻 👩‍💻
 
